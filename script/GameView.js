@@ -127,6 +127,10 @@ cc.Class({
                         }
             }
         cc.log("玩家1的牌排序后",sort)
+        cc.log("玩家1的牌排序后",sort)
+        cc.log("玩家1的牌排序后",sort)
+            
+        cc.log("玩家1的牌排序后",sort)
         cc.log("玩家2的牌排序后",sort1)
         } 
     },
