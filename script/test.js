@@ -5,7 +5,7 @@ const huase = ["方","梅","红","黑"]
 //扑克
 const pai = ["A",2,3,4,5,6,7,8,9,10,"J","Q","K"]
 const TeshuPai  = ['J','Q','K','A'];
-
+cc.log("修改")
 
 const paiType =  {
     TonghuaShun:1,
@@ -210,7 +210,7 @@ cc.Class({
         if(arr.length == 1){
             cc.log("同花！！！")
         }
-
+        cc.log("修改")
         
         //TODO:实现判断是否是同花
         return 
@@ -354,6 +354,7 @@ cc.Class({
             }
         }
         //TODO：实现逻辑
+        cc.log("修改")
         return 2
     },
 
